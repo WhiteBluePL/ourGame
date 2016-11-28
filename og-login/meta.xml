@@ -1,0 +1,29 @@
+<meta>
+	<!-- info -->
+	<info name='Panel logowania' author='.WhiteBlue' version='1.0' />
+
+	<!-- files -->
+	<file src='i/left/left_bg.png' />
+	<file src='i/left/left_btn_login.png' />
+	<file src='i/left/left_btn_login_hover.png' />
+	<file src='i/left/left_btn_register.png' />
+	<file src='i/left/left_btn_register_hover.png' />
+
+	<file src='i/right/login/right_login_bg.png' />
+	<file src='i/right/login/right_login_btn.png' />
+	<file src='i/right/login/right_login_btn_hover.png' />
+	<file src='i/right/login/right_login_input.png' />
+	<file src='i/right/login/right_login_input_hover.png' />
+
+	<file src='i/right/register/right_register_bg.png' />
+	<file src='i/right/register/right_register_btn.png' />
+	<file src='i/right/register/right_register_btn_hover.png' />
+	<file src='i/right/register/right_register_input.png' />
+	<file src='i/right/register/right_register_input_hover.png' />
+
+	<file src='s/intro.mp3' />
+
+	<!-- scripts -->
+	<script src='login.lua' type='server' />
+	<script src='login_c.lua' type='client' cache='false' />
+</meta>
