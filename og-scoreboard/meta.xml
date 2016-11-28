@@ -1,0 +1,13 @@
+<meta>
+	<!-- info -->
+	<info name='Tabela graczy' author='.WhiteBlue' version='1.0' />
+
+	<!-- files -->
+	<file src='i/scoreboard_bg.png' />
+	<file src='i/scoreboard_row.png' />
+
+	<file src='f/font.ttf' />
+
+	<!-- scripts -->
+	<script src='scoreboard_c.lua' type='client' cache='false' />
+</meta>
