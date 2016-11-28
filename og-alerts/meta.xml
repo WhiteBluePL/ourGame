@@ -1,0 +1,25 @@
+<meta>
+	<!-- info -->
+	<info name='Informacje z prawej strony ekranu' author='.WhiteBlue' version='1.0' />
+
+	<!-- files -->
+	<file src='i/bg_error.png' />
+	<file src='i/bg_info.png' />
+	<file src='i/bg_success.png' />
+	<file src='i/bg_warning.png' />
+	
+	<file src='i/icon_error.png' />
+	<file src='i/icon_info.png' />
+	<file src='i/icon_success.png' />
+	<file src='i/icon_warning.png' />
+
+	<file src='s/alert.wav' />
+
+	<!-- exports -->
+	<export function='createAlert' type='server' />
+	<export function='createAlert' type='client' />
+
+	<!-- scripts -->
+	<script src='alerts.lua' type='server' />
+	<script src='alerts_c.lua' type='client' cache='false' />
+</meta>
