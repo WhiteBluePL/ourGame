@@ -1,0 +1,11 @@
+<meta>
+	<!-- info -->
+	<info name='Połączenie z bazą danych' author='.WhiteBlue' version='1.0' />
+
+	<!-- exports -->
+	<export function='dbGet' type='server' />
+	<export function='dbSet' type='server' />
+	
+	<!-- scripts -->
+	<script src='connect.lua' type='server' />
+</meta>
