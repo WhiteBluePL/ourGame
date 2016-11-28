@@ -1,0 +1,11 @@
+<meta>
+	<!-- info -->
+	<info name='Teksty na mapie' author='.WhiteBlue' version='1.0' />
+
+	<!-- files -->
+	<file src='f/font.ttf' />
+
+	<!-- scripts -->
+	<script src='texts.lua' type='server' />
+	<script src='texts_c.lua' type='client' cache='false' />
+</meta>
