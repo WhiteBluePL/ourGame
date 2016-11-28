@@ -1,0 +1,7 @@
+<meta>
+	<!-- info -->
+	<info name='Zaawansowana obsługa świateł' author='.WhiteBlue' version='1.0' />
+
+	<!-- scripts -->
+	<script src='traffic.lua' type='server' />
+</meta>
