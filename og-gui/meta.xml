@@ -1,0 +1,16 @@
+<meta>
+	<!-- info -->
+	<info name='Zasób zarządzający GUI' author='.WhiteBlue' version='1.0' />
+
+	<!-- files -->
+	<file src='i/hud/hud.png' />
+	<file src='i/hud/hud_armor.png' />
+	<file src='i/hud/hud_health.png' />
+
+	<file src='f/font.ttf' />
+
+	<!-- scripts -->
+	<script src='footer_c.lua' type='client' cache='false' />
+	<script src='hud_c.lua' type='client' cache='false' />
+	<script src='nametags_c.lua' type='client' cache='false' />
+</meta>
