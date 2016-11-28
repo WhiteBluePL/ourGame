@@ -10,7 +10,7 @@ W tym repozytorium znajdują się wszystkie zasoby z nowej edycji serwera ourGam
 * Podpięcie skryptów pod starego gamemoda ourGame
 
 *     Cena: 25 zł
-*     Sposoby płatności: PayPal, Paysafecard
+Sposoby płatności: PayPal, Paysafecard
 
 # Forum
 Zapraszamy serdecznie do odwiedzenia naszego forum, które znajduje się pod adresem:
