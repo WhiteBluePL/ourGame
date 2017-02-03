@@ -21,17 +21,23 @@ local database = {
 -- functions
 function dbGet(...)
 	if not database.handler or not {...} then return end
-
-	local query = dbQuery(database.handler, ...)
-	local result, num_affected_rows, last_insert_id = dbPoll(query, -1)
-
+	
+	local format = dbPrepareString(database.handler, ...)
+	if format then
+		local query = dbQuery(database.handler, format)
+		local result, num_affected_rows, last_insert_id = dbPoll(query, -1)
+	end
+	
 	return result, num_affected_rows, last_insert_id
 end
 
 function dbSet(...)
 	if not database.handler or not {...} then return end
-
-	local query = dbExec(database.handler, ...)
+	
+	local format = dbPrepareString(database.handler, ...)
+	if format then
+		local query = dbExec(database.handler, format)
+	end
 
 	return query
 end
