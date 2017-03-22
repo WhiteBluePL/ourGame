@@ -22,11 +22,8 @@ local database = {
 function dbGet(...)
 	if not database.handler or not {...} then return end
 	
-	local format = dbPrepareString(database.handler, ...)
-	if format then
-		local query = dbQuery(database.handler, format)
-		local result, num_affected_rows, last_insert_id = dbPoll(query, -1)
-	end
+	local query = dbQuery(database.handler, ...)
+	local result, num_affected_rows, last_insert_id = dbPoll(query, -1)
 	
 	return result, num_affected_rows, last_insert_id
 end
@@ -34,10 +31,7 @@ end
 function dbSet(...)
 	if not database.handler or not {...} then return end
 	
-	local format = dbPrepareString(database.handler, ...)
-	if format then
-		local query = dbExec(database.handler, format)
-	end
+	local query = dbExec(database.handler, ...)
 
 	return query
 end
