@@ -2,4 +2,4 @@
 
 ## Nazwa - www.strona_www_serwera.pl
 
-# Możesz edytować ten plik i dodać swój serwer :)
+Możesz edytować ten plik i dodać swój serwer :)
