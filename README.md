@@ -15,6 +15,8 @@ Zakup licencji wraz z zasobami gamemoda ourGame v1
 * Cena: 25 zł
 * Sposoby płatności: PayPal, PaySafeCard
 
+Chcesz zakupić jakiś zasób? Skontaktuj się ze mną poprzez prywatą wiadomość na GTAOnline.pl
+
 # Forum
 Zapraszamy serdecznie do odwiedzenia naszego forum, które znajduje się pod adresem:
 *     www.og-rpg.eu
