@@ -7,9 +7,13 @@ W tym repozytorium znajdują się wszystkie zasoby z nowej edycji serwera ourGam
 * Brzysiek [https://github.com/Brzysiu] - Pomoc dotycząca skryptów, skalowanie elementów GUI
 
 # Dodatkowe usługi
-Podpięcie skryptów pod starego gamemoda ourGame
+Podpięcie skryptów z gamemoda ourGame v2 pod starego gamemoda ourGame v1
 * Cena: 15 zł
-* Sposoby płatności: PayPal, Paysafecard
+* Sposoby płatności: PayPal, PaySafeCard
+
+Zakup licencji wraz z zasobami gamemoda ourGame v1
+* Cena: 25 zł
+* Sposoby płatności: PayPal, PaySafeCard
 
 # Forum
 Zapraszamy serdecznie do odwiedzenia naszego forum, które znajduje się pod adresem:
