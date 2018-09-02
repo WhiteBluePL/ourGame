@@ -19,4 +19,4 @@ Chcesz zakupić jakiś zasób? Skontaktuj się ze mną poprzez prywatą wiadomo�
 
 # Forum
 Zapraszamy serdecznie do odwiedzenia naszego forum, które znajduje się pod adresem:
-*     www.og-rpg.eu
+- www.og-rpg.eu
