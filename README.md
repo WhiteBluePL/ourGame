@@ -2,9 +2,9 @@
 W tym repozytorium znajdują się wszystkie zasoby z nowej edycji serwera ourGame.
 
 # Autorzy
-* .WhiteBlue [https://github.com/WhiteBluePL] - Skrypty oraz grafika
+* .WhiteBlue [http://og-rpg.eu/] - Skrypty oraz grafika
 * http: // Rick [https://github.com/Ricksss] - Pomoc dotycząca skryptów
-* Brzysiek [https://github.com/Brzysiu] - Pomoc dotycząca skryptów, skalowanie elementów GUI
+* Brzysiek [-] - Pomoc dotycząca skryptów, skalowanie elementów GUI
 
 # Dodatkowe usługi
 Podpięcie skryptów z gamemoda ourGame v2 pod starego gamemoda ourGame v1
